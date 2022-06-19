@@ -41,7 +41,7 @@ const readNote = title => {
     notes.filter(item => item.title === title)
 
     if (notes.length > 0) {
-        console.log(notes[0].title, notes[0].body)
+        console.log(`Title: ${notes[0].title} - Body: ${notes[0].body}`)
     } else {
         console.log('Title not found!')
     }
