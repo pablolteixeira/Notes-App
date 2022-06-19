@@ -1,0 +1,22 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "My first project using Node.js.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablolteixeira/Notes-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablolteixeira/Notes-App/issues"
+  },
+  "homepage": "https://github.com/pablolteixeira/Notes-App#readme",
+  "dependencies": {
+    "yargs": "^17.5.1"
+  }
+}
