@@ -1,5 +1,5 @@
 # Notes-App
-My first project using Node.js.
+My first small-project with Node.js.
 
 Commands:
 
